@@ -26,6 +26,8 @@ If you follow along with the credited tutorial, you will learn about some of the
 ## Credits
 [Dev Ed is Amazing -- Todo App With REACT](https://www.youtube.com/watch?v=pCA4qpQDZD8)
 
+[favicon.io for turning a free coffee png into a favicon!](https://favicon.io/favicon-converter/)
+
 ## License
 I've chosen an MIT License. Do what you'd like with this material.
 
